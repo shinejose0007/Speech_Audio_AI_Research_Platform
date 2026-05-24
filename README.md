@@ -36,6 +36,17 @@ FastAPI:
 uvicorn api.main:app --reload
 ```
 
+## Screenshots
+
+Outputs
+
+<p align="center"><img src="000.JPG" width="1000"></p>
+<p align="center"><img src="1.JPG" width="1000"></p>
+<p align="center"><img src="2.JPG" width="1000"></p>
+<p align="center"><img src="3.JPG" width="1000"></p>
+<p align="center"><img src="4.JPG" width="1000"></p>
+<p align="center"><img src="5.JPG" width="1000"></p>
+
 MLflow:
 ```bash
 mlflow ui --backend-store-uri ./mlruns
