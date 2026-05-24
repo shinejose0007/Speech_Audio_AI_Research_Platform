@@ -1,0 +1,13 @@
+{
+  "run_name": "train_CNN Denoiser",
+  "timestamp": "20260524_140628",
+  "params": {
+    "model": "CNN Denoiser",
+    "epochs": 5,
+    "lr": 0.001
+  },
+  "metrics": {
+    "final_val_L1": 0.170431,
+    "model_size_mb": 0.0729
+  }
+}

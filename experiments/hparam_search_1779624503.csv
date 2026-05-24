@@ -1,0 +1,2 @@
+model,lr,batch_size,epochs,final_train_L1,final_val_L1,model_size_mb
+CNN Denoiser,0.001,4,2,0.165295,0.170184,0.0729

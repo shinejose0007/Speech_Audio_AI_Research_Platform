@@ -1,0 +1,36 @@
+{
+  "model_name": "CNN Denoiser",
+  "model_path": "C:\\Users\\shinejose\\Downloads\\Speech_Audio_AI_Research_Platform_Complete\\outputs\\models\\cnn_denoiser.pt",
+  "device": "cpu",
+  "epochs": 5,
+  "parameters": 19105,
+  "estimated_model_size_mb": 0.0729,
+  "training_seconds": 24.09,
+  "logs": [
+    {
+      "epoch": 1,
+      "train_L1": 0.169424,
+      "val_L1": 0.176563
+    },
+    {
+      "epoch": 2,
+      "train_L1": 0.166617,
+      "val_L1": 0.174194
+    },
+    {
+      "epoch": 3,
+      "train_L1": 0.164926,
+      "val_L1": 0.172263
+    },
+    {
+      "epoch": 4,
+      "train_L1": 0.163812,
+      "val_L1": 0.172345
+    },
+    {
+      "epoch": 5,
+      "train_L1": 0.16288,
+      "val_L1": 0.171023
+    }
+  ]
+}
