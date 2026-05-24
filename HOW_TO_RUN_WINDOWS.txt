@@ -1,0 +1,1 @@
+Extract ZIP, double-click run_streamlit_windows.bat, register account, generate demo data, train CNN Denoiser first, then explore all tabs. Optional ASR: run install_optional_research_features_windows.bat.

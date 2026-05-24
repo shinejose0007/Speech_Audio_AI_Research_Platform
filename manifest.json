@@ -1,0 +1,19 @@
+{
+  "project": "Neural_Speech_Enhancement_Audio_Coding_Dashboard",
+  "features": [
+    "Streamlit dashboard",
+    "real WAV upload",
+    "synthetic demo dataset",
+    "audio augmentation",
+    "STFT and Mel-spectrograms",
+    "CNN/LSTM/Transformer models",
+    "neural audio codec autoencoder",
+    "SNR/SI-SNR and optional PESQ/STOI metrics",
+    "model leaderboard",
+    "inference-time benchmarking",
+    "ONNX export",
+    "C++ deployment demo template",
+    "Markdown report export",
+    "Dockerfile"
+  ]
+}

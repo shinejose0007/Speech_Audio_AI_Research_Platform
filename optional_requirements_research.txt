@@ -1,0 +1,6 @@
+transformers>=4.38
+torchaudio>=2.0
+accelerate>=0.25
+jiwer>=3.0
+pystoi>=0.4.1
+pesq>=0.0.4
